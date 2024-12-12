@@ -1,1 +1,6 @@
-print("Hello world")
+multipl=1
+for i in range(1,10);
+    if 1 % 2 ==6:
+    continue
+multipl *= i
+print(multipl)
